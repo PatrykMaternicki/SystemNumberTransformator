@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/system-number-transformer/static/css/main.17fa1ec3.chunk.css",
+    "main.js": "/system-number-transformer/static/js/main.e5559a05.chunk.js",
+    "main.js.map": "/system-number-transformer/static/js/main.e5559a05.chunk.js.map",
+    "runtime-main.js": "/system-number-transformer/static/js/runtime-main.f0effc0b.js",
+    "runtime-main.js.map": "/system-number-transformer/static/js/runtime-main.f0effc0b.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/system-number-transformer/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.20511c1c.chunk.js": "/system-number-transformer/static/js/2.20511c1c.chunk.js",
+    "static/js/2.20511c1c.chunk.js.map": "/system-number-transformer/static/js/2.20511c1c.chunk.js.map",
+    "index.html": "/system-number-transformer/index.html",
+    "precache-manifest.39be79a264392ded27b457d89b6c3b1d.js": "/system-number-transformer/precache-manifest.39be79a264392ded27b457d89b6c3b1d.js",
+    "service-worker.js": "/system-number-transformer/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/system-number-transformer/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.17fa1ec3.chunk.css.map": "/system-number-transformer/static/css/main.17fa1ec3.chunk.css.map",
+    "static/js/2.20511c1c.chunk.js.LICENSE": "/system-number-transformer/static/js/2.20511c1c.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0effc0b.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.20511c1c.chunk.js",
+    "static/css/main.17fa1ec3.chunk.css",
+    "static/js/main.e5559a05.chunk.js"
+  ]
+}

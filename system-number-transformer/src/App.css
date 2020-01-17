@@ -1,0 +1,54 @@
+.App {
+  text-align: center;
+  background-color: #0033cc;
+  min-height: 100vh;
+  width: 100%;
+}
+
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.componentForm {
+  background-color: #000080;
+  border: 10px solid Maroon;
+  border-radius: 20px;
+  padding: 30px;
+  font-family: 'Consolas';
+}
+
+.componentForm__group {
+  margin: 2rem 0;
+}
+
+.componentForm__label {
+  text-align: left;
+  display: block;
+}
+
+.componentForm__input {
+  width: 100%;
+  display: block;
+  background-color: blue;
+}
+
+.componentForm__input:focus {
+  background-color: white;
+}
+
+.componentForm__error {
+  color: red;
+  text-transform: uppercase;
+}
+
+@media (min-width: 720px) {
+  .componentForm {
+    width: 50%;
+  }  
+}
